@@ -1,0 +1,5 @@
+
+main:
+  module: readfile.json
+  args:
+    - /misc/file.json
